@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m 'gg'
+(vytvor repo na github, skopiruj link z hora z githubu)
+
+git remote add origin (ten link)
+git branch -M main
+git push -u origin main
+
+(na githube, settings, pages, dat main branch, pockat 1 min a refreshnut)
